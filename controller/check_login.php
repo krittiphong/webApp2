@@ -68,4 +68,5 @@
 		exit();
 	}
 	show_source("../controller/check_login.php");
+	echo "ss";
 ?>
