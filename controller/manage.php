@@ -18,5 +18,7 @@
         //header("location: ../view/manage_user.php");
     }
     echo "5555";
+    echo "5555";
+echo "5555ddd";
 echo "5555";
 ?>
